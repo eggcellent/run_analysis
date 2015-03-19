@@ -16,14 +16,14 @@ March 2015
 ---
 
 The script run-analysis.R takes raw data from Human Activity Recognition Using Smartphones Dataset and returns a tidy data set.  
-Running the script will create a text document, **tidy_data.txt**, which returns the mean for feature mean and std features by subject volunteer and activity performed.  
-The script will outline the steps of tidying.  
+Running the script creates a new dataset, **tidy_data.txt**, which returns the mean for feature mean and std features by subject volunteer and activity performed.  
+The script will outline the steps of tidying.  Details can be found in CodeBook.md
 The tidy_data.txt dataset can be read into R using read.table("tidy_data.txt", header=TRUE)  
 
 The script includes the following files:
 
-- README.txt
-- Codebook.txt
+- README.md
+- Codebook.md
 - run_analysis.R
 
 **To properly run run_analysis.R, the data must be found in the working directory.** 
