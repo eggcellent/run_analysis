@@ -7,9 +7,12 @@ Coursera Getting and Cleaning Data
 Course Project  
 Cleaning Human Activity Recognition Using Smartphones Dataset  
 Version 1.0  
+
 ---
+
 Erin Gordon-Wong  
 March 2015  
+
 ---
 
 ###Project Description

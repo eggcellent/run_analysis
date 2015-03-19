@@ -7,9 +7,12 @@ Coursera Getting and Cleaning Data
 Course Project  
 Cleaning Human Activity Recognition Using Smartphones Dataset  
 Version 1.0  
+
 ---  
+
 Erin Gordon-Wong  
 March 2015  
+
 ---
 
 The script run-analysis.R takes raw data from Human Activity Recognition Using Smartphones Dataset and returns a tidy data set.  
